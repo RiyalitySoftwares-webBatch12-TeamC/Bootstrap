@@ -1,0 +1,5 @@
+.box{
+    height: 9em;
+    border: 5px solid rgba(128, 128, 128, 0.733);
+    background-color: brown;
+}
