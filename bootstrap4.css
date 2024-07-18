@@ -10,3 +10,8 @@
 .mt-10{
     margin-top: 20px !important;
 }
+.border-none{
+    box-shadow: 0 0 10px 0px green;
+}
+
+
