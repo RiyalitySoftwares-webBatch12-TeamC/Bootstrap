@@ -1,0 +1,54 @@
+.social:hover{
+    background-color: orangered !important;
+}
+.sticky-top{
+    position: sticky !important;
+    top: 0 !important;
+}
+.position-sticky{
+    position: sticky !important;
+    top: 0 !important;
+}
+.nav-link:hover{
+    color: orangered !important;
+}
+.logo{
+    position: relative !important;
+    top: -50px;
+    left: -60px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: orangered;
+    text-align: center;
+    padding: 15px;
+}
+.logo img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.card-img-top{
+    height: 100%;
+}
+.video{
+    height: 400px;
+}
+.video2 img{
+    border-radius: 20px;
+}
+.video1{
+    background-image: url(https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/video-bg.jpg);
+    background-size: cover;
+}
+.feature{
+    height: 4rem;
+    background-color: rgba(223, 169, 149, 0.645);
+}
+.number{
+    font-size: 30px;
+    font-weight: 900;
+}
+.bg-orange{
+    background-color: orangered !important;
+}
