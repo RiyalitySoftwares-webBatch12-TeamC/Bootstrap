@@ -85,9 +85,10 @@ div .orange:hover{
 }
 .toppp{
     z-index: 1000;
-}
-.bluecolor{
-    background-color: rgba(0, 0, 255, 0.305) !important;
+    position: fixed !important;
+    bottom: 20px !important;
+    right: 20px !important;
+    background-color: rgba(0, 0, 255, 0.678) !important;
 }
 .anchordecoration{
     text-decoration: none !important;
