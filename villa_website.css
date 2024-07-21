@@ -52,3 +52,47 @@
 .bg-orange{
     background-color: orangered !important;
 }
+.bg-gray{
+    background-color: rgb(236, 235, 235);
+}
+.cardimg img{
+    height: 300px !important;
+}
+.contactus{
+    background-image: url(https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/contact-bg.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.light-shadow{
+    box-shadow: 0 0 5px 0px rgb(188, 185, 185);
+}
+.icon img{
+    height: 40px;
+    width: 40px;
+}
+.totalcontact{
+    height: 900px;
+}
+.bg-black{
+    background-color: black;
+}
+div .orange:hover{
+    background-color: orangered !important;
+}
+.Appartment img{
+    height: 100%;
+    width: 100%;
+}
+.toppp{
+    z-index: 1000;
+}
+.bluecolor{
+    background-color: rgba(0, 0, 255, 0.305) !important;
+}
+.anchordecoration{
+    text-decoration: none !important;
+}
+.propertyhome{
+    background-image: url(	https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/page-heading-bg.jpg);
+    background-size: cover;
+}
